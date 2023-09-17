@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2> Esse foi um projeto que feito com intuito de apirmorar o conhecimento.</h2>
+<h2> Esse foi um projeto feito com intuito de apirmorar o conhecimento aprendido.</h2>
 <br>
 Utilizando as seguintes tecnologias:
 <br>
