@@ -1,7 +1,7 @@
 <h1>Easy Shopping</h1>
 <br>
 <br>
-<h2> Esse foi um projeto que aprendi na plataforma DevClub</h2>
+<h2> Esse foi um projeto que feito com intuito de apirmorar o conhecimento.</h2>
 <br>
 Utilizando as seguintes tecnologias:
 <br>
